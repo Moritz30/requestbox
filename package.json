@@ -12,6 +12,8 @@
     "javascript-brunch": "~2.0.0",
     "prismjs": "^1.5.0",
     "uglify-js-brunch": "~2.0.1"
+  },
+  "engines": {
+    "node": ">=0.10.3 <0.12"
   }
-   { "engines" : { "node" : ">=0.10.3 <0.12" } }
 }
